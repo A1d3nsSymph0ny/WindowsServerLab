@@ -1,4 +1,7 @@
-<h1>Windows Server Configuration</h1>
+# Windows Server Project
 
-- <b>Diagram</b>
-  <object data="Aiden Rose Windows Server Portfolio.pdf" width="1000" height="1000" type='application/pdf'/>
+## Diagram
+![Windows Server Diagram](./Windows%20Server%20Portfolio.png)
+
+## Walk-Through
+[View Walk-Through PDF](./Aiden%20Rose%20Windows%20Server%20Portfolio.pdf)
